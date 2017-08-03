@@ -13,7 +13,3 @@ Library:
 Note:
 ---------
 For now, user has to change the user agent by slecting the one in <code>bot</code>. Will work on that later. 
-
-
-Many thanks to Josten Moore for the starter code :https://github.com/Tigertron/parvist.git and great tutorial from 
-Chris Reeves: https://www.youtube.com/watch?v=SFas42HBtMg&list=WL&index=15, that gives the idea of building the data structure for web crawler
